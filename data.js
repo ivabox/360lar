@@ -20,8 +20,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.6968329817911414,
-        "pitch": 0.2762766811734725,
+        "yaw": 0.6484552397171477,
+        "pitch": 0.1004957003687359,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
@@ -47,8 +47,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.6283195198148093,
-        "pitch": 0.24379649603510956,
+        "yaw": 0.534339263302881,
+        "pitch": 0.11538395227520581,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
@@ -74,8 +74,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.06175780430134026,
-        "pitch": 0.2847378177114024,
+        "yaw": 0.0563875604490498,
+        "pitch": 0.4150154995249977,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
@@ -101,8 +101,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -0.6283224658620217,
-        "pitch": 0.1972693377608401,
+        "yaw": -0.43904114335453315,
+        "pitch": 0.24193409348027117,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
@@ -128,8 +128,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.002708830355951264,
-        "pitch": -0.005583094464931548,
+        "yaw": -0.0187958534830166,
+        "pitch": 0.08748931396035964,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
@@ -140,7 +140,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
