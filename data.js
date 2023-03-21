@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-c1",
-      "name": "c1",
+      "id": "0-cam01",
+      "name": "Cam01",
       "levels": [
         {
           "tileSize": 256,
@@ -16,20 +16,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1024,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6484552397171477,
-        "pitch": 0.1004957003687359,
+        "yaw": 0.6014710773670444,
+        "pitch": 0.2289068730621029,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "1-c2",
-      "name": "c2",
+      "id": "1-cam02",
+      "name": "Cam02",
       "levels": [
         {
           "tileSize": 256,
@@ -43,20 +47,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1024,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.534339263302881,
-        "pitch": 0.11538395227520581,
+        "yaw": 0.6323462136071711,
+        "pitch": 0.3219584474775914,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "2-c3",
-      "name": "c3",
+      "id": "2-cam03",
+      "name": "Cam03",
       "levels": [
         {
           "tileSize": 256,
@@ -70,20 +78,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1024,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.0563875604490498,
-        "pitch": 0.4150154995249977,
+        "yaw": 0.02818790131989779,
+        "pitch": 0.5731797924641455,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "3-c4",
-      "name": "c4",
+      "id": "3-cam04",
+      "name": "Cam04",
       "levels": [
         {
           "tileSize": 256,
@@ -97,20 +109,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1024,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.43904114335453315,
-        "pitch": 0.24193409348027117,
+        "yaw": -0.48331417710754465,
+        "pitch": 0.3833617165277463,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "4-c5",
-      "name": "c5",
+      "id": "4-cam05",
+      "name": "Cam05",
       "levels": [
         {
           "tileSize": 256,
@@ -124,12 +140,16 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1024,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.0187958534830166,
-        "pitch": 0.08748931396035964,
+        "yaw": 0,
+        "pitch": 0.027929844888513244,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [],
